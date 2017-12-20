@@ -1,0 +1,15 @@
+/*
+ * TurnoffWarning.h
+ *
+ *  Created on: 2017. 12. 12.
+ *      Author: Daniel
+ */
+
+#ifndef SKT_SMARTFLEET_OBJ_PAYLOAD_TURNOFFWARNING_H_
+#define SKT_SMARTFLEET_OBJ_PAYLOAD_TURNOFFWARNING_H_
+
+
+
+
+
+#endif /* SKT_SMARTFLEET_OBJ_PAYLOAD_TURNOFFWARNING_H_ */
