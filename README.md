@@ -1,4 +1,4 @@
-#Arduino Source for T-RemotEye
+#Arduino Source for Smart[Fleet]
 
 본 코드는 Smart[Fleet] 기반 아두이노 SDK를 제공합니다.
 
@@ -74,7 +74,7 @@ void mqttWrapper::connect(const char* host, const int port, const char* username
 2. Code Guide
 ------------------------------------
 
-T-RemotEye Proxy에 접속, 메시지 전송, RPC 요청 수신을 위해 SmartfleetClient Class를 제공한다.
+Smart[Fleet] Proxy에 접속, 메시지 전송, RPC 요청 수신을 위해 SmartfleetClient Class를 제공한다.
 
 
 `$library/src/SmartfleetClient.h`:
@@ -171,7 +171,7 @@ WiFi.begin(ssid, pass);
 
 ##### 4.1 SmartfleetClient Init
 
-SmartfeetClient로 서비스를 사용하기 위해 T-RemotEye Proxy의 MQTT 정보를 입력합니다.
+SmartfeetClient로 서비스를 사용하기 위해 Smart[Fleet] Proxy의 MQTT 정보를 입력합니다.
 Config.h 파일의 정보를 사용합니다.
 
 `$examples/SmartFleet_Example.ino`:
