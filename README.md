@@ -1,6 +1,6 @@
 #Arduino Source for T-RemotEye
 
-본 코드는 T-RemotEye 기반 아두이노 SDK를 제공합니다.
+본 코드는 Smart[Fleet] 기반 아두이노 SDK를 제공합니다.
 
 1. Configure
 -------------------------------
