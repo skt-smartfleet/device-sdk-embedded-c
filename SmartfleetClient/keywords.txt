@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map For SmartfleetClient
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+smartfleet	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin	KEYWORD2
+setRPCCallback	KEYWORD2
+superloop	KEYWORD2
+connectSmartFleet	KEYWORD2
+disconnectSmartFleet	KEYWORD2
+isMqttConnectStatus	KEYWORD2
+sendTrip	KEYWORD2
+sendMicroTrip	KEYWORD2
+sendHFDCapabilityInfomation	KEYWORD2
+sendDiagnosticInfomation	KEYWORD2
+sendDrivingCollisionWarning	KEYWORD2
+sendParkingCollisionWarning	KEYWORD2
+sendBatteryWarning	KEYWORD2
+sendUnpluggedWarning	KEYWORD2
+sendTurnoffWarning	KEYWORD2
+isRPCMessage	KEYWORD2
+resultDeviceActivation	KEYWORD2
+resultFirmwareUpdate	KEYWORD2
+resultOBDReset	KEYWORD2
+resultDeviceSerialNumberCheck	KEYWORD2
+resultClearDeviceData	KEYWORD2
+resultFirmwareUpdateChunk	KEYWORD2
