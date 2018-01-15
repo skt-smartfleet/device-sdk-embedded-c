@@ -5,7 +5,7 @@
 
 <br>
 1. Configure
--------------------------------
+
 ##### 1.1 MQTT Broker 정보
 
 |Attribute | Value | Note |
